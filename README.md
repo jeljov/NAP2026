@@ -1,2 +1,4 @@
-# NAP2026
-Materijali za predmet Napredna analiza podataka u 2026 godini
+# Napredna analiza podataka, zimski semestar 2026. god.
+Ovaj repozitorijum sadrži materijale za časove predavanja i vežbi na izbornom predmetu Napredna analiza podataka.
+
+Predmet se izvodi na Fakultetu organizacionih nauka, Univerzitet u Beogradu, u zimskom semestru školske 2026/27 godine.
