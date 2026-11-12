@@ -1,0 +1,50 @@
+Type,Requirement,Category,Predicted_category,correct_cls
+NFR,"Application will be extendable. This means that a skilled Java Android programmer should be able to easily add a new sub-application to insApption, and add a launcher to it in the main-application.",Non-functional,Non-functional,True
+FR,check if user is within 1 mile of the campus,Functional,Functional,True
+US,Users shall be able to reach the  add    drop   and  trade player  pages with one click from the team owner s page.,Non-functional,Functional,False
+NFR,"The different search options should be evident, simple and easy to understand.",Non-functional,Non-functional,True
+F,The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.,Functional,Functional,True
+F,Only registered customers can purchase streaming movies.,Functional,Functional,True
+NFR,"To ensure reliability and correctness, there will be zero tolerance for errors in the algorithm that computes and splits expenses between group members. To maintain flexibility and adaptability, the app will take into account situations in which a user loses internet connection or for whatever reason cannot establish a connection with the server. These users will still be able to use the application, but any Bills, transactions, etc. posted while disconnected will be cached until the connection is restored.",Non-functional,Non-functional,True
+US,The website will use standard Internet conventions when interacting with the user.,Non-functional,Non-functional,True
+FR,By selecting a certain day in the calendar the events for that day are shown.,Functional,Functional,True
+NFR,Internet Connection DESC: The application should be connected to the Internet.,Non-functional,Non-functional,True
+F,The product shall notify building personnel of equipment transport requests.,Functional,Functional,True
+MN,New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process.,Non-functional,Functional,False
+US,The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.,Non-functional,Non-functional,True
+F,The search radius shall be between 1 and 30 miles,Functional,Functional,True
+FR,The main menu contains a launcher to the News-app.3.1.4,Functional,Functional,True
+US,The product shall be installed by an untrained realtor   without recourse to separately-printed instructions.,Non-functional,Non-functional,True
+O,98% of the user workstations shall meet the minimum software requirements prior to implementation,Non-functional,Non-functional,True
+NFR,Admin Login Account Security GIST: Security of accounts. SCALE: If an admin tries to log in to the web portal with a non-existing account then the admin should not be logged in. The admin should be notified about log-in failure. METER: 1000 attempts to log-in with a non-existing user account during testing. MUST: 100% of the time.,Non-functional,Functional,False
+F,The product shall allow a player to position ships horizontally on their grid.,Functional,Functional,True
+NFR,English is an available language. ,Non-functional,Non-functional,True
+F,The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.,Functional,Functional,True
+FR,Edit an existing userâ€™s information Given the administrator is logged in When the administrator edits an existing user Then the user information should be updated,Functional,Functional,True
+A, The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.,Non-functional,Non-functional,True
+NFR,The accuracy of the Generic Question Constructionâ€‹ part will be close to 80% ,Non-functional,Non-functional,True
+NFR,"In order to create a viable offering for the user we will have to build a simple, transparent system that can be understood and trusted by the people that are using it.",Non-functional,Non-functional,True
+F,The system shall offer the ability to pause and resume the refresh of data.,Functional,Functional,True
+F,The product shall store new conference rooms.,Functional,Functional,True
+LF,The product shall comply with corporate User Interface Guidelines,Non-functional,Non-functional,True
+A,The application shall have a downtime of at most 10 minutes per year.,Non-functional,Non-functional,True
+FT,The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.,Non-functional,Functional,False
+L,The product must comply with Sarbanes-Oxley.,Non-functional,Non-functional,True
+F, The user shall search for the preferred repair facility using vehicle  vehicle location  and radius in miles,Functional,Functional,True
+US,The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.,Non-functional,Non-functional,True
+FR,The application has a map view in satellite style.,Functional,Functional,True
+F,The system shall display the local and exercise time in separate clocks,Functional,Functional,True
+FR,It is possible to â€œtweetâ€ the userâ€™s current location.,Functional,Functional,True
+FR,"The database is populated by the information extraction unit before the rest of the system is available, so that all information is readilyaccessible.",Functional,Functional,True
+FR,The administrator can modify the list of news RSS-feeds that are available in English.,Functional,Functional,True
+PE,Staff members shall be able to complete a set of tasks in a timely manner.,Non-functional,Non-functional,True
+F,The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case.,Functional,Functional,True
+SE,Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.,Non-functional,Functional,False
+SC, The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.,Non-functional,Non-functional,True
+FR,"In this case, the user can mark an item as a favorite so that he will be notified if any change is made to the item",Functional,Functional,True
+F,The product shall record meeting entries.,Functional,Functional,True
+US,The system shall be intuitive and self explanatory.,Non-functional,Non-functional,True
+FR,Select Swedish as preferred language Given the restaurant owner wants to select a preferred language When the restaurant owner selects Swedish as a new language Then the web-portal will show all text in Swedish,Functional,Functional,True
+FR,Prominent search feature DESC: The search feature should be prominent and easy to find for the user.,Functional,Non-functional,False
+O,The product shall be platform independent.The product shall enable access to any type of development environment and platform.,Non-functional,Non-functional,True
+NFR,"Performance should not be an issue because all of our server queries involve small pieces of data. Changing screens will require very little computation and thus will occur very quickly. Server updates should only take a few seconds as long as the phone can maintain a steady signal. The cost-division algorithms used by in application will be highly efficient, taking only a fraction of a second to compute.",Non-functional,Non-functional,True
