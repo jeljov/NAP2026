@@ -5,7 +5,6 @@ US,Users shall be able to reach the  add    drop   and  trade player  pages with
 NFR,"The different search options should be evident, simple and easy to understand.",Non-functional,Non-functional,True
 F,The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.,Functional,Functional,True
 F,Only registered customers can purchase streaming movies.,Functional,Functional,True
-NFR,"To ensure reliability and correctness, there will be zero tolerance for errors in the algorithm that computes and splits expenses between group members. To maintain flexibility and adaptability, the app will take into account situations in which a user loses internet connection or for whatever reason cannot establish a connection with the server. These users will still be able to use the application, but any Bills, transactions, etc. posted while disconnected will be cached until the connection is restored.",Non-functional,Non-functional,True
 US,The website will use standard Internet conventions when interacting with the user.,Non-functional,Non-functional,True
 FR,By selecting a certain day in the calendar the events for that day are shown.,Functional,Functional,True
 NFR,Internet Connection DESC: The application should be connected to the Internet.,Non-functional,Non-functional,True
@@ -18,7 +17,7 @@ US,The product shall be installed by an untrained realtor   without recourse to 
 O,98% of the user workstations shall meet the minimum software requirements prior to implementation,Non-functional,Non-functional,True
 NFR,Admin Login Account Security GIST: Security of accounts. SCALE: If an admin tries to log in to the web portal with a non-existing account then the admin should not be logged in. The admin should be notified about log-in failure. METER: 1000 attempts to log-in with a non-existing user account during testing. MUST: 100% of the time.,Non-functional,Functional,False
 F,The product shall allow a player to position ships horizontally on their grid.,Functional,Functional,True
-NFR,English is an available language. ,Non-functional,Non-functional,True
+NFR,English is an available language. ,Non-functional,Functional,False
 F,The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.,Functional,Functional,True
 FR,Edit an existing userâ€™s information Given the administrator is logged in When the administrator edits an existing user Then the user information should be updated,Functional,Functional,True
 A, The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.,Non-functional,Non-functional,True
@@ -46,5 +45,4 @@ F,The product shall record meeting entries.,Functional,Functional,True
 US,The system shall be intuitive and self explanatory.,Non-functional,Non-functional,True
 FR,Select Swedish as preferred language Given the restaurant owner wants to select a preferred language When the restaurant owner selects Swedish as a new language Then the web-portal will show all text in Swedish,Functional,Functional,True
 FR,Prominent search feature DESC: The search feature should be prominent and easy to find for the user.,Functional,Non-functional,False
-O,The product shall be platform independent.The product shall enable access to any type of development environment and platform.,Non-functional,Non-functional,True
 NFR,"Performance should not be an issue because all of our server queries involve small pieces of data. Changing screens will require very little computation and thus will occur very quickly. Server updates should only take a few seconds as long as the phone can maintain a steady signal. The cost-division algorithms used by in application will be highly efficient, taking only a fraction of a second to compute.",Non-functional,Non-functional,True
